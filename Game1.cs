@@ -1,8 +1,6 @@
 ﻿// Author: Dylan Nagel
 // File Name: Game1.cs
 // Project Name: NagelD_PASS3
-// Creation Date: May. 15, 2023
-// Modified Date: June. 12, 2023
 // Description: Runs a similar game to "Wii Tanks"
 
 using System;

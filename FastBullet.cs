@@ -1,8 +1,6 @@
 ﻿// Author: Dylan Nagel
 // File Name: FastBullet.cs
 // Project Name: NagelD_PASS3
-// Creation Date: May. 15, 2023
-// Modified Date: June. 12, 2023
 // Description: Creates an instance of a fast bullet, holding all important information for the gameplay
 
 using Microsoft.Xna.Framework;

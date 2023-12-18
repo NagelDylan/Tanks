@@ -1,8 +1,6 @@
 ﻿// Author: Dylan Nagel
 // File Name: PurpleTank.cs
 // Project Name: NagelD_PASS3
-// Creation Date: May. 15, 2023
-// Modified Date: June. 12, 2023
 // Description: Creates an instance of a purple tank, taking in and sorting the purple tank data
 
 using System;

@@ -1,8 +1,6 @@
 ﻿// Author: Dylan Nagel
 // File Name: RedTank.cs
 // Project Name: NagelD_PASS3
-// Creation Date: May. 15, 2023
-// Modified Date: June. 12, 2023
 // Description: Creates an instance of a red tank, taking in and sorting the red tank data
 
 using System;
