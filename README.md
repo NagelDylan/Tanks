@@ -12,13 +12,12 @@ This project demonstrates both my technical proficiency and my commitment to del
 - **Language**: C#
 - **Frameworks**: MonoGame, Pipeline
 
-### Chalenges
+### Key Challenges Surmounted:
 
-A few major challenges that I encountered (and overcame):
-- Implementing a successful pathfinding algorithm, customized to each tank's personality
-- Auto aiming enemy tanks' shafts (although it may seem simple, there were many mathematical challenges that needed to me overcome)
-- Creating accurate collision detection bullets, walls, tanks, water, etc.
-- Saving the user's gamestats accurately concisely for next login (including the stars, all the game stats and levels unlocked, there is a lot of information to save)
+- **Customized Pathfinding Algorithm:** Tailoring the pathfinding logic to reflect the unique personality of each tank was a significant endeavor. Achieving this required a deep dive into algorithmic customization to ensure each tank's movement felt distinct and intelligent.
+- **Precise Auto-Aiming Mechanism for Enemy Tanks:** Contrary to initial expectations, developing a mathematically robust auto-aiming system for enemy tanks presented numerous complexities. The solution demanded intricate mathematical models to achieve precision and realism.
+- **Advanced Collision Detection:** Implementing comprehensive collision detection was paramount. This involved ensuring bullets, walls, tanks, water, and other elements interacted with each other realistically, necessitating meticulous physics and geometry calculations.
+- **Efficient Game State Preservation:** Capturing and storing user game states for seamless continuity across sessions was a multifaceted challenge. This required not only tracking stars, game statistics, and unlocked levels but also designing a storage solution that was both efficient and reliable, ensuring a seamless user experience upon each login.
 
 ### Repository Contents
 
